@@ -21,4 +21,12 @@ Editar ou Excluir Usuários:
 * Caso você queira corrigir ou remover um nome de usuário já cadastrado, use os botões na coluna "Ações":<br>
 Editar: Permite alterar os dados do usuário selecionado.
 Excluir: Remove o usuário selecionado da tabela.
-* Caso você nao tenha preenchido todos os campos ira aparecer uma mensagem de alerta no campo superior da tela para você preencher os campos 
+* Caso você nao tenha preenchido todos os campos ira aparecer uma mensagem de alerta no campo superior da tela para você preencher os campos
+
+# Pra que serve esse trabalho 
+esse trabalho foi feito para que os usario fazem login 
+
+# pessoas que ajudou no trablho 
+<https://github.com/mariayanagui><br>
+<https://github.com/LeonardoRochaMarista><br> 
+

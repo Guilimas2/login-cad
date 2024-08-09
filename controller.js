@@ -54,12 +54,14 @@ function editar(i){
 // PREENCHER O CAMPO DE ENTRADA COM O NOME A SER EDITADO 
     document.getElementById('nomeUser').value = dadosLista[(i - 1)];
     dadosLista.splice(dadosLista[(i - 1)], 1);
-    REMOVE O NOME DA LISTA PARA QUE POSSA SER ATUALIZADO 
+    // REMOVE O NOME DA LISTA PARA QUE POSSA SER ATUALIZADO 
 
 }
  
 // FUNÇÃO PARA EXCLUIR NOME DE LISTA
 function excluir(i){
+    // REMOVE  O NOME DA LISTA PELO INDICE FORNECIDO
     dadosLista.splice((i - 1), 1);
+    // ATUALIZA A TABELA APOS A REMOÇAO
     document.getElementById('tabela').deleteRow(i);
 }
