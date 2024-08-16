@@ -36,7 +36,6 @@ function salvarUser(){
 // FUNÇÃO PARA CRIAR LISTA DE USUÁRIOS
 function criaLista(){
     // INICIAR A TABELA COM O CABEÇALHO 
-
     let tabela = document.getElementById('tabela').innerHTML = "<tr><th>Nome Usuário</th><th>Ações</th></tr>";
     // O ARRAY "dadosLista" PARA ADICIONAR CADA NOME A TABELA
     for(let i=0;i<=(dadosLista.length - 1);i++){
