@@ -55,7 +55,7 @@ Verifica se o CPF possui 11 dígitos e se não é composto por todos os dígitos
 Calcula e valida os dois dígitos verificadores do CPF.
 Retorna true se o CPF for válido e false caso contrário.
 
-# pessoas que ajudou no trablho 
+# pessoas que ajudou no trabalho 
 <https://github.com/mariayanagui><br>
 <https://github.com/LeonardoRochaMarista><br> 
 
